@@ -1,4 +1,9 @@
 # ShopingCart
+# Name : Sangam Kumar
+# Roll No: 2019UGEC047R
+# Phone No: 8115684727
+# Eamil : sangam.btech.ec19@iiitranchi.ac.in
+
 # Overview
 A shopkeeper sells products. Some products are eligible for GST(Goods and Service
 Tax) and some are not. To attract customers the shopkeeper has offered a 5% discount
@@ -24,4 +29,4 @@ Create a suitable data structure to hold product details in the basket as per ab
  
 # Installation
 1. You can run the code in any **C++** Online compiler or you can use VS Code Ide also.
-2. For the Installation  of VS Code https://code.visualstudio.com/download 
+2. For the Installation  of VS Code  use the given link: https://code.visualstudio.com/download 
