@@ -1,5 +1,6 @@
-# ShopingCart
-# Name : Sangam Kumar
+# Shoping Cart
+ Name : Sangam Kumar  
+ 
 # Roll No: 2019UGEC047R
 # Phone No: 8115684727
 # Eamil : sangamkumar.btech.ec19@iiitranchi.ac.in
