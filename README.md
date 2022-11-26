@@ -24,9 +24,11 @@ Create a suitable data structure to hold product details in the basket as per ab
 2. Calculate the total amount to be paid to the shop-keeper
 
 # Solution
-**C++** langauge has been used for the coding.
-**OOps** design( Class ) is used for storing the product details.
+**C++** langauge has been used for the coding.  
+Class is used for storing the product details swhich ilustrate **OOPS**.  
+vector of class is used for ease of calculating the desired result and for clean code. 
+
  
-# Installation
-1. You can run the code in any **C++** Online compiler( https://onecompiler.com/cpp/3yq3m6zeg ) or you can use VS Code Ide also.
+# TO RUN THE CODE 
+1. You can run the code in any **C++** Online compiler like ( https://onecompiler.com/cpp/3yq3m6zeg ) or you can use VS Code Ide also.
 2. For the Installation  of VS Code  use the given link: https://code.visualstudio.com/download 
