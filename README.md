@@ -7,5 +7,5 @@ A customer has added below products to basket
 
 # Basket
 | 1 | Product | Unit Price in Rupees | GST in % | Quantity |
- ------------- 
-| 2| Leather Wallet | 1100 | 18 | 1|
+|---|---------|----------------------|----------|----------|
+| 2 | Leather Wallet | 1100 | 18 | 1|
