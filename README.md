@@ -17,3 +17,11 @@ A customer has added below products to basket
 Create a suitable data structure to hold product details in the basket as per above table.
 1. Identify the product for which we paid maximum GST amount
 2. Calculate the total amount to be paid to the shop-keeper
+
+# Solution
+**C++** langauge has been used for the coding.
+**OOps** design( Class ) is used for storing the product details.
+ 
+# Installation
+1. You can run the code in any **C++** Online compiler or you can use VS Code Ide also.
+2. For the Installation  of VS Code https://code.visualstudio.com/download 
