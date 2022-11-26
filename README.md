@@ -2,7 +2,7 @@
 # Name : Sangam Kumar
 # Roll No: 2019UGEC047R
 # Phone No: 8115684727
-# Eamil : sangam.btech.ec19@iiitranchi.ac.in
+# Eamil : sangamkumar.btech.ec19@iiitranchi.ac.in
 
 # Overview
 A shopkeeper sells products. Some products are eligible for GST(Goods and Service
@@ -28,5 +28,5 @@ Create a suitable data structure to hold product details in the basket as per ab
 **OOps** design( Class ) is used for storing the product details.
  
 # Installation
-1. You can run the code in any **C++** Online compiler or you can use VS Code Ide also.
+1. You can run the code in any **C++** Online compiler( https://onecompiler.com/cpp/3yq3m6zeg ) or you can use VS Code Ide also.
 2. For the Installation  of VS Code  use the given link: https://code.visualstudio.com/download 
